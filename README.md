@@ -1,1 +1,1 @@
-# object_classification
+# object_detection
